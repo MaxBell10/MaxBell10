@@ -2,9 +2,6 @@
 
 <div align="center">
 
-# Maxime Belliard
-### Cybersecurity Analyst · GRC & Technical Security · Based in Belgium
-
 [![RNCP](https://img.shields.io/badge/RNCP%20Level%207-Master's%20in%20Security%20Solutions%20Development-1A1A2E?style=flat-square)](https://www.francecompetences.fr)
 [![PECB ISO 27001](https://img.shields.io/badge/PECB-ISO%2027001%20Provisional%20Implementer-C8102E?style=flat-square)](https://www.pecb.com)
 [![PECB EBIOS](https://img.shields.io/badge/PECB-EBIOS%20Provisional%20Risk%20Manager-C8102E?style=flat-square)](https://www.pecb.com)
