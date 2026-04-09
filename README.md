@@ -1,3 +1,5 @@
+![Banner](profile_banner_maxime_belliard.svg)
+
 <div align="center">
 
 # Maxime Belliard
