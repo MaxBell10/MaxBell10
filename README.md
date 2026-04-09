@@ -1,7 +1,7 @@
 <div align="center">
 
 # Maxime Belliard
-### Cybersecurity Engineer · GRC & Technical Security · Based in Belgium
+### Cybersecurity Analyst · GRC & Technical Security · Based in Belgium
 
 [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A651?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org)
 [![PECB ISO 27001](https://img.shields.io/badge/PECB-ISO%2027001%20Provisional%20Implementer-C8102E?style=flat-square)](https://www.pecb.com)
@@ -14,15 +14,18 @@
 
 ## 👋 About Me
 
-I'm a cybersecurity professional with a **Master's-level background (RNCP Level 7)** in security solutions development, specialising in the intersection of **technical implementation and security governance**.
+I'm a cybersecurity professional with a **Master's-level background (RNCP Level 7)** in security solutions development, looking to join an **in-house security team** where I can both implement and analyse cybersecurity solutions — from technical hardening to governance.
+
+Before moving into cybersecurity, I spent years as a **QSE Manager and logistics operations leader**, which gave me a strong foundation in process discipline, regulatory compliance, and risk management — including **OT/IT environments**. I bring that operational mindset directly into security work.
 
 My work focuses on:
 - 🏢 **Active Directory** hardening and identity management
 - 🔍 **SIEM deployment** and real-time threat detection
 - 📋 **GRC** — ISO 27001:2022, NIS2, EBIOS RM risk methodology
 - 🛡️ **Security monitoring** aligned with MITRE ATT&CK
+- 🏭 **OT/IT risk** — understanding of operational technology environments and their security constraints
 
-I build hands-on labs that mirror real enterprise environments, and document them as portfolio evidence for both technical and GRC roles.
+I build hands-on labs that mirror real enterprise environments, documented as portfolio evidence of both technical depth and governance awareness.
 
 ---
 
