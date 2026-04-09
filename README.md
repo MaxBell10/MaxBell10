@@ -3,9 +3,10 @@
 # Maxime Belliard
 ### Cybersecurity Analyst · GRC & Technical Security · Based in Belgium
 
-[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A651?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org)
+[![RNCP](https://img.shields.io/badge/RNCP%20Level%207-Master's%20in%20Security%20Solutions%20Development-1A1A2E?style=flat-square)](https://www.francecompetences.fr)
 [![PECB ISO 27001](https://img.shields.io/badge/PECB-ISO%2027001%20Provisional%20Implementer-C8102E?style=flat-square)](https://www.pecb.com)
 [![PECB EBIOS](https://img.shields.io/badge/PECB-EBIOS%20Provisional%20Risk%20Manager-C8102E?style=flat-square)](https://www.pecb.com)
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A651?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org)
 [![ANSSI](https://img.shields.io/badge/ANSSI-SecNumacadémie%20100%25-003189?style=flat-square)](https://secnumacademie.gouv.fr)
 
 </div>
@@ -24,6 +25,10 @@ My work focuses on:
 - 📋 **GRC** — ISO 27001:2022, NIS2, EBIOS RM risk methodology
 - 🛡️ **Security monitoring** aligned with MITRE ATT&CK
 - 🏭 **OT/IT risk** — understanding of operational technology environments and their security constraints
+- 🔥 **Network security** — firewall rules, IDS/IPS with pfSense and Suricata, and network design and segmentation fundamentals
+- ⚔️ **Attack & Defense** — hands-on attack simulation and detection in lab environments
+- 🐧 **Linux** administration and hardening
+- ⚙️ **Security automation** — Bash & PowerShell scripting
 
 I build hands-on labs that mirror real enterprise environments, documented as portfolio evidence of both technical depth and governance awareness.
 
@@ -33,7 +38,7 @@ I build hands-on labs that mirror real enterprise environments, documented as po
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Expert en Développement de Solutions de Sécurité — RNCP Niveau 7 | AN21 / CSB School | 2024 |
+| Master's-level Degree in Security Solutions Development (RNCP Level 7) | AN21 / CSB School | 2024 |
 | ISO/IEC 27001 Provisional Implementer | PECB | 2024 |
 | EBIOS Provisional Risk Manager | PECB | 2024 |
 | Certified in Cybersecurity (CC) | ISC2 | 2026 |
