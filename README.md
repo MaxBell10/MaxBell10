@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a cybersecurity professional with a **Master's-level background (RNCP Level 7)** in security solutions development, looking to join an **in-house security team** where I can both implement and analyse cybersecurity solutions — from technical hardening to governance.
+I'm a cybersecurity professional with a **Master's Degree (RNCP Level 7)** in security solutions development, looking to join an **in-house security team** where I can both implement and analyse cybersecurity solutions — from technical hardening to governance.
 
 Before moving into cybersecurity, I spent years as a **QSE Manager and logistics operations leader**, which gave me a strong foundation in process discipline, regulatory compliance, and risk management — including **OT/IT environments**. I bring that operational mindset directly into security work.
 
@@ -37,7 +37,7 @@ I build hands-on labs that mirror real enterprise environments, documented as po
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Master's-level Degree in Security Solutions Development (RNCP Level 7) | AN21 / CSB School | 2024 |
+| Master's Degree in Security Solutions Development (RNCP Level 7) | AN21 / CSB School | 2024 |
 | ISO/IEC 27001 Provisional Implementer | PECB | 2024 |
 | EBIOS Provisional Risk Manager | PECB | 2024 |
 | Certified in Cybersecurity (CC) | ISC2 | 2026 |
