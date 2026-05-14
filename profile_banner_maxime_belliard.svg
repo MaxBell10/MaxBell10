@@ -12,51 +12,60 @@
 <line x1="0" y1="50" x2="680" y2="50" stroke="rgb(29,158,117)" stroke-width="0.4" opacity="0.2"/>
 <line x1="0" y1="230" x2="680" y2="230" stroke="rgb(29,158,117)" stroke-width="0.4" opacity="0.2"/>
 
-<polygon points="115,44 175,72 175,148 115,178 55,148 55,72" fill="rgb(29,158,117)" opacity="0.9"/>
-<polygon points="115,56 163,80 163,143 115,170 67,143 67,80" fill="rgb(13,17,23)"/>
-<polygon points="115,72 151,90 151,136 115,154 79,136 79,90" fill="rgb(55,138,221)" opacity="0.12"/>
-
-<polyline points="79,118 91,104 103,116 115,98 127,110 139,94 151,106 163,118" fill="none" stroke="rgb(29,158,117)" stroke-width="1.5" opacity="0.85" stroke-linejoin="round" stroke-linecap="round"/>
-
-<circle cx="115" cy="136" r="4" fill="rgb(55,138,221)"/>
-<line x1="115" y1="132" x2="115" y2="100" stroke="rgb(55,138,221)" stroke-width="1.5" opacity="0.8"/>
+<polygon points="115,24 175,52 175,128 115,158 55,128 55,52" fill="rgb(29,158,117)" opacity="0.9"/>
+<polygon points="115,36 163,60 163,123 115,150 67,123 67,60" fill="rgb(13,17,23)"/>
+<polygon points="115,52 151,70 151,116 115,134 79,116 79,70" fill="rgb(55,138,221)" opacity="0.12"/>
+<polyline points="79,98 91,84 103,96 115,78 127,90 139,74 151,86 163,98" fill="none" stroke="rgb(29,158,117)" stroke-width="1.5" opacity="0.85" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="115" cy="116" r="4" fill="rgb(55,138,221)"/>
+<line x1="115" y1="112" x2="115" y2="80" stroke="rgb(55,138,221)" stroke-width="1.5" opacity="0.8"/>
 
 <text x="210" y="108" font-family="monospace" font-size="32" font-weight="700" fill="rgb(255,255,255)">MAXIME</text>
 <text x="210" y="148" font-family="monospace" font-size="32" font-weight="700" fill="rgb(29,158,117)">BELLIARD</text>
+<text x="212" y="174" font-family="monospace" font-size="12" font-weight="400" fill="rgb(29,158,117)" opacity="0.85">Cybersecurity Analyst · Technical &amp; GRC · End-to-End Implementation</text>
 
-<text x="212" y="174" font-family="monospace" font-size="13" font-weight="400" fill="rgb(29,158,117)" opacity="0.85">Cybersecurity Analyst · GRC &amp; Technical Security</text>
-
-<rect x="210" y="190" width="70" height="20" rx="3" fill="rgb(29,158,117)" opacity="0.15"/>
+<rect x="210" y="190" width="70" height="20" rx="3" fill="rgb(239,120,60)" opacity="0.15"/>
 <rect x="288" y="190" width="84" height="20" rx="3" fill="rgb(224,82,82)" opacity="0.15"/>
 <rect x="380" y="190" width="68" height="20" rx="3" fill="rgb(239,159,39)" opacity="0.15"/>
 <rect x="456" y="190" width="36" height="20" rx="3" fill="rgb(55,138,221)" opacity="0.15"/>
-<rect x="500" y="190" width="88" height="20" rx="3" fill="rgb(180,100,220)" opacity="0.15"/>
-<rect x="596" y="190" width="44" height="20" rx="3" fill="rgb(239,120,60)" opacity="0.15"/>
-
-<text x="214" y="204" font-family="monospace" font-size="10" fill="rgb(29,158,117)">ISO 27001</text>
+<rect x="500" y="190" width="72" height="20" rx="3" fill="rgb(180,100,220)" opacity="0.15"/>
+<rect x="580" y="190" width="66" height="20" rx="3" fill="rgb(29,158,117)" opacity="0.15"/>
+<text x="214" y="204" font-family="monospace" font-size="10" fill="rgb(239,120,60)">ISO 27001</text>
 <text x="292" y="204" font-family="monospace" font-size="10" fill="rgb(224,82,82)">MITRE ATT&amp;CK</text>
 <text x="384" y="204" font-family="monospace" font-size="10" fill="rgb(239,159,39)">EBIOS RM</text>
 <text x="460" y="204" font-family="monospace" font-size="10" fill="rgb(55,138,221)">NIS2</text>
-<text x="504" y="204" font-family="monospace" font-size="10" fill="rgb(180,100,220)">Windows Server</text>
-<text x="600" y="204" font-family="monospace" font-size="10" fill="rgb(239,120,60)">Linux</text>
+<text x="504" y="204" font-family="monospace" font-size="10" fill="rgb(180,100,220)">IEC 62443</text>
+<text x="584" y="204" font-family="monospace" font-size="10" fill="rgb(29,158,117)">OT/IT Sec</text>
 
-<text x="212" y="242" font-family="monospace" font-size="10" fill="rgb(255,255,255)" opacity="0.5">github.com/MaxBell10</text>
-<text x="212" y="257" font-family="monospace" font-size="10" fill="rgb(255,255,255)" opacity="0.5">Belgium · Open to internal security roles</text>
+<rect x="210" y="214" width="88" height="20" rx="3" fill="rgb(55,138,221)" opacity="0.15"/>
+<rect x="306" y="214" width="40" height="20" rx="3" fill="rgb(239,120,60)" opacity="0.15"/>
+<rect x="354" y="214" width="54" height="20" rx="3" fill="rgb(180,100,220)" opacity="0.15"/>
+<rect x="416" y="214" width="46" height="20" rx="3" fill="rgb(29,158,117)" opacity="0.15"/>
+<rect x="470" y="214" width="46" height="20" rx="3" fill="rgb(55,138,221)" opacity="0.15"/>
+<rect x="524" y="214" width="32" height="20" rx="3" fill="rgb(239,159,39)" opacity="0.15"/>
+<text x="214" y="228" font-family="monospace" font-size="10" fill="rgb(55,138,221)">Windows Server</text>
+<text x="310" y="228" font-family="monospace" font-size="10" fill="rgb(239,120,60)">Linux</text>
+<text x="358" y="228" font-family="monospace" font-size="10" fill="rgb(180,100,220)">pfSense</text>
+<text x="420" y="228" font-family="monospace" font-size="10" fill="rgb(29,158,117)">Docker</text>
+<text x="474" y="228" font-family="monospace" font-size="10" fill="rgb(55,138,221)">Wazuh</text>
+<text x="528" y="228" font-family="monospace" font-size="10" fill="rgb(239,159,39)">AWS</text>
 
-<circle cx="590" cy="70" r="3" fill="rgb(29,158,117)" opacity="0.6"/>
-<circle cx="625" cy="88" r="2" fill="rgb(55,138,221)" opacity="0.5"/>
-<circle cx="608" cy="110" r="2.5" fill="rgb(239,159,39)" opacity="0.5"/>
-<circle cx="582" cy="132" r="2" fill="rgb(29,158,117)" opacity="0.4"/>
-<circle cx="642" cy="145" r="3" fill="rgb(55,138,221)" opacity="0.5"/>
-<circle cx="598" cy="168" r="2" fill="rgb(239,159,39)" opacity="0.4"/>
-<circle cx="628" cy="188" r="2.5" fill="rgb(29,158,117)" opacity="0.5"/>
-<circle cx="572" cy="198" r="2" fill="rgb(55,138,221)" opacity="0.4"/>
+<text x="212" y="256" font-family="monospace" font-size="10" fill="rgb(255,255,255)" opacity="0.5">github.com/MaxBell10</text>
+<text x="212" y="269" font-family="monospace" font-size="10" fill="rgb(255,255,255)" opacity="0.5">Belgium · Open to internal security roles</text>
 
-<line x1="590" y1="70" x2="625" y2="88" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
-<line x1="625" y1="88" x2="608" y2="110" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
-<line x1="608" y1="110" x2="642" y2="145" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
-<line x1="642" y1="145" x2="628" y2="188" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
-<line x1="590" y1="70" x2="582" y2="132" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
-<line x1="582" y1="132" x2="572" y2="198" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
-<line x1="608" y1="110" x2="598" y2="168" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
+<circle cx="548" cy="48" r="3" fill="rgb(29,158,117)" opacity="0.6"/>
+<circle cx="582" cy="34" r="2" fill="rgb(55,138,221)" opacity="0.5"/>
+<circle cx="568" cy="68" r="2.5" fill="rgb(239,159,39)" opacity="0.5"/>
+<circle cx="538" cy="80" r="2" fill="rgb(29,158,117)" opacity="0.4"/>
+<circle cx="600" cy="56" r="3" fill="rgb(55,138,221)" opacity="0.5"/>
+<circle cx="614" cy="86" r="2" fill="rgb(239,159,39)" opacity="0.4"/>
+<circle cx="588" cy="100" r="2.5" fill="rgb(29,158,117)" opacity="0.5"/>
+<circle cx="558" cy="108" r="2" fill="rgb(55,138,221)" opacity="0.4"/>
+<line x1="548" y1="48" x2="582" y2="34" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
+<line x1="582" y1="34" x2="600" y2="56" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
+<line x1="600" y1="56" x2="568" y2="68" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
+<line x1="568" y1="68" x2="614" y2="86" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
+<line x1="548" y1="48" x2="538" y2="80" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
+<line x1="538" y1="80" x2="558" y2="108" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
+<line x1="568" y1="68" x2="588" y2="100" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
+<line x1="614" y1="86" x2="588" y2="100" stroke="rgb(55,138,221)" stroke-width="0.8" opacity="0.35" fill="none"/>
 </svg>
