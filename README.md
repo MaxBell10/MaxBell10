@@ -64,51 +64,59 @@ All labs simulate the security programme of **LogiSecure SA**, a fictional Belgi
 ## 🗂️ Portfolio — LogiSecure Enterprise Security Program
 
 > 📌 **[logisecure-enterprise-security-program](https://github.com/MaxBell10/logisecure-enterprise-security-program)** — Hub · CISO dashboard · Risk register · Executive summary
+>
+> Planned projects are listed by name and linked once their repository is published. Their figures are targets, not results.
 
 ### Part 1 — Build the Lab
 
-| # | Repository | Status | Key Metric |
-|---|---|---|---|
-| P1 | [logisecure-active-directory](https://github.com/MaxBell10/logisecure-active-directory) | 🔄 In progress | PingCastle score before/after GPO |
-| P2 | [logisecure-pfsense-segmentation](https://github.com/MaxBell10/logisecure-pfsense-segmentation) | 🔄 In progress | 8+ firewall rules · 18+ Suricata signatures |
-| P3 | [logisecure-ebios-rm-assessment](https://github.com/MaxBell10/logisecure-ebios-rm-assessment) | 📋 Planned | 3 strategic scenarios · MITRE-mapped |
-| P4 | [logisecure-bash-automation](https://github.com/MaxBell10/logisecure-bash-automation) | 📋 Planned | 9 scripts · GPG-signed · GitHub Actions CI |
-| P5 | [logisecure-attack-simulation](https://github.com/MaxBell10/logisecure-attack-simulation) | 📋 Planned | Kill chain · AD + pfSense + Wazuh correlated |
+| Repository | Status | Key Metric |
+|---|---|---|
+| [logisecure-active-directory](https://github.com/MaxBell10/logisecure-active-directory) | ✅ Completed | PingCastle 55/100 · 4 GPOs · Wazuh SIEM |
+| [logisecure-pfsense-segmentation](https://github.com/MaxBell10/logisecure-pfsense-segmentation) | ✅ Completed | 12 firewall rules · Suricata alerts in Wazuh (T1046) · OpenVAS validated against nmap |
+| logisecure-ebios-rm-assessment | 📋 Planned | 3 strategic scenarios · MITRE-mapped |
+| logisecure-bash-automation | 📋 Planned | 9 scripts · GPG-signed · GitHub Actions CI |
+| logisecure-attack-simulation | 📋 Planned | Kill chain · AD + pfSense + Wazuh correlation |
 
 ### Part 2 — Expand the Skills
 
-| # | Repository | Status | Key Metric |
-|---|---|---|---|
-| P6 | [logisecure-ot-network-security](https://github.com/MaxBell10/logisecure-ot-network-security) | 📋 Planned | Purdue Model · 3 VLANs · Modbus ACL |
-| P7 | [logisecure-pki-kms](https://github.com/MaxBell10/logisecure-pki-kms) | 📋 Planned | 2-tier PKI · 4 certs · CRL · GPG-signed scripts |
-| P8 | [logisecure-honeypot-threat-intel](https://github.com/MaxBell10/logisecure-honeypot-threat-intel) | 📋 Planned | Cowrie · STIX IOC export · Wazuh rules |
-| P9 | [logisecure-container-security](https://github.com/MaxBell10/logisecure-container-security) | 📋 Planned | CVEs 47→3 (-94%) · kube-bench · SBOM |
-| P10 | [logisecure-cloud-security](https://github.com/MaxBell10/logisecure-cloud-security) | 📋 Planned | Terraform IaC · GuardDuty · CloudTrail |
-| P11 | [logisecure-forensics-ir](https://github.com/MaxBell10/logisecure-forensics-ir) | 📋 Planned | PICERL · TheHive · memory & disk forensics |
-| P12 | [logisecure-redteam-blueteam](https://github.com/MaxBell10/logisecure-redteam-blueteam) | 📋 Planned | **MTTD 87s · 11/13 MITRE techniques detected** |
+| Repository | Status | Key Metric |
+|---|---|---|
+| logisecure-ot-network-security | 📋 Planned | Purdue Model · 3 VLANs · Modbus ACL |
+| logisecure-pki-kms | 📋 Planned | 2-tier PKI · 4 certs · CRL · GPG-signed scripts |
+| logisecure-honeypot-threat-intel | 📋 Planned | Cowrie · STIX IOC export · Wazuh rules |
+| logisecure-container-security | 📋 Planned | kube-bench · SBOM · target > 90% critical CVE reduction |
+| logisecure-cloud-security | 📋 Planned | Terraform IaC · GuardDuty · CloudTrail |
+| logisecure-forensics-ir | 📋 Planned | PICERL · TheHive · memory & disk forensics |
+| logisecure-redteam-blueteam | 📋 Planned | Purple Team · target MTTD < 120s · ≥ 11/13 MITRE techniques detected |
 
 ### Part 3 — Govern the Risk
 
-| # | Repository | Status | Key Metric |
-|---|---|---|---|
-| P13 | [logisecure-legacy-ot-security](https://github.com/MaxBell10/logisecure-legacy-ot-security) | 📋 Planned | Risk CRITICAL→MEDIUM · virtual patching |
-| P14 | [logisecure-supply-chain-risk](https://github.com/MaxBell10/logisecure-supply-chain-risk) | 📋 Planned | 3 vendors assessed · SBOM Syft/Grype |
-| P15 | [logisecure-iso27001-audit](https://github.com/MaxBell10/logisecure-iso27001-audit) | 📋 Planned | 23 Annex A controls · 2 major NCs |
+| Repository | Status | Key Metric |
+|---|---|---|
+| logisecure-legacy-ot-security | 📋 Planned | Virtual patching · target risk CRITICAL → MEDIUM |
+| logisecure-supply-chain-risk | 📋 Planned | 3 vendors · SBOM Syft/Grype |
+| logisecure-iso27001-audit | 📋 Planned | Target ≥ 20 Annex A controls audited · NCs documented |
 
 ---
 
 ## 📊 Consolidated CISO Dashboard
 
-| KPI | Value | Project |
-|---|---|---|
-| Purple Team MTTD | 87 seconds | P12 |
-| MITRE techniques detected | 11 / 13 tested | P12 |
-| Critical Docker CVEs before/after | 47 → 3 (−94%) | P9 |
-| Custom Wazuh rules | 17 | P1, P8, P11, P12 |
-| Network segments | 5 (LAN, DMZ, OT Ctrl, OT Field, Cloud) | P2, P6 |
-| Legacy OT risk level | CRITICAL → MEDIUM | P13 |
-| ISO 27001 Annex A controls audited | 23 | P15 |
-| Suppliers assessed | 3 (1 approved, 1 conditional, 1 rejected) | P14 |
+> Status reflects what is currently evidenced in the repositories. 📋 Target values are the objectives set for projects not yet delivered, not results.
+
+| KPI | Value | Repository | Status |
+|---|---|---|---|
+| Firewall rules implemented | 12 (5 LAN · 4 DMZ · 3 WAN) | logisecure-pfsense-segmentation | ✅ Achieved |
+| DMZ→LAN traffic blocked | 100% — evidenced in firewall logs | logisecure-pfsense-segmentation | ✅ Achieved |
+| IDS detection in the SIEM (ET SCAN / T1046) | DMZ→LAN alerts raised in Wazuh, MITRE-mapped | logisecure-pfsense-segmentation | ✅ Achieved |
+| Network segments | 2 live behind the perimeter (LAN, DMZ) | logisecure-pfsense-segmentation | ✅ Achieved |
+| Network segments | 5 (+ OT Ctrl, OT Field, Cloud) | logisecure-ot-network-security · logisecure-cloud-security | 📋 Target |
+| Custom Wazuh rules | 3 / 15 | logisecure-active-directory · logisecure-honeypot-threat-intel · logisecure-forensics-ir · logisecure-redteam-blueteam | 🔄 Partial |
+| Purple Team MTTD | < 120 seconds | logisecure-redteam-blueteam | 📋 Target |
+| MITRE techniques detected | ≥ 11 / 13 tested | logisecure-redteam-blueteam | 📋 Target |
+| Critical Docker CVE reduction | > 90% | logisecure-container-security | 📋 Target |
+| Legacy OT risk level | CRITICAL → MEDIUM | logisecure-legacy-ot-security | 📋 Target |
+| ISO 27001 Annex A controls audited | ≥ 20 | logisecure-iso27001-audit | 📋 Target |
+| Suppliers assessed | 3 | logisecure-supply-chain-risk | 📋 Target |
 
 ---
 
@@ -120,7 +128,7 @@ All labs simulate the security programme of **LogiSecure SA**, a fictional Belgi
 | **NIS2 Art. 21** | Risk management · Supply chain · Access control · Incident handling · Continuity |
 | **IEC 62443** | SL1–SL2 · SR 1.1–1.3 · SR 5.1–5.4 · Purdue Model · IT/OT segmentation |
 | **EBIOS RM** | 5 workshops · Strategic & operational scenarios · Residual risk treatment |
-| **MITRE ATT&CK** | T1078 · T1110 · T1484 · T1566 · T1195 · T1562 + ICS: T0862 · T0859 · T0814 |
+| **MITRE ATT&CK** | T1046 · T1078 · T1110 · T1484 · T1566 · T1195 · T1562 + ICS: T0862 · T0859 · T0814 |
 | **CIS Controls** | Control 5 — Account Mgmt · Control 8 — Audit Logs · Control 12 — Network Infra |
 
 ---
