@@ -110,7 +110,7 @@ All labs simulate the security programme of **LogiSecure SA**, a fictional Belgi
 | IDS detection in the SIEM (ET SCAN / T1046) | DMZ→LAN alerts raised in Wazuh, MITRE-mapped | logisecure-pfsense-segmentation | ✅ Achieved |
 | Network segments | 2 live behind the perimeter (LAN, DMZ) | logisecure-pfsense-segmentation | ✅ Achieved |
 | Network segments | 5 (+ OT Ctrl, OT Field, Cloud) | logisecure-ot-network-security · logisecure-cloud-security | 📋 Target |
-| Custom Wazuh rules | 3 / 15 | logisecure-active-directory · logisecure-honeypot-threat-intel · logisecure-forensics-ir · logisecure-redteam-blueteam | 🔄 Partial |
+| Custom Wazuh rules | 5 / 15 | logisecure-active-directory · logisecure-pfsense-segmentation · logisecure-honeypot-threat-intel · logisecure-forensics-ir · logisecure-redteam-blueteam | 🔄 Partial |
 | Purple Team MTTD | < 120 seconds | logisecure-redteam-blueteam | 📋 Target |
 | MITRE techniques detected | ≥ 11 / 13 tested | logisecure-redteam-blueteam | 📋 Target |
 | Critical Docker CVE reduction | > 90% | logisecure-container-security | 📋 Target |
